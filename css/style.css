@@ -1,8 +1,28 @@
 body{
-    font-family: 'Nerko One', cursive;
+    font-family: 'Rowdies', cursive;
 }
 p{
-    font-family: 'Itim', cursive;
-    font-family: 'Trirong', serif;
-    
+    font-size:18px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    color:rgb(189, 77, 3);
+}
+h2.exrcise{
+    color: #9708a9;
+}
+#readmore{
+    color: rgb(175, 114, 164);
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(0, 0, 0);
 }
